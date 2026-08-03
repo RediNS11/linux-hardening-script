@@ -24,4 +24,5 @@ A collection of Bash scripts designed to automate system hardening, close critic
    ```bash
    chmod +x <script_name>.sh
 2. Execute with elevated privileges:
+   ```bash
    sudo ./<script_name>.sh
